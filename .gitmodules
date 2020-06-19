@@ -1,0 +1,3 @@
+[submodule "pcb/SparkFun-KiCad-Libraries"]
+	path = pcb/SparkFun-KiCad-Libraries
+	url = https://github.com/sparkfun/SparkFun-KiCad-Libraries/
